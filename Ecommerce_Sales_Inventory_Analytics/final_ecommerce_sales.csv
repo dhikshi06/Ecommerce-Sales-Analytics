@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,order_date,quantity,total_amount,product_name,category,price,stock_quantity,customer_name,city,state
+1001,1,101,2024-01-10,2,1598,Wireless Mouse,Electronics,799,120,Aarav,Chennai,TN
+1002,2,103,2024-01-12,5,995,Notebook,Stationery,199,200,Meera,Bengaluru,KA
+1003,3,102,2024-01-15,1,999,Keyboard,Electronics,999,80,Rahul,Hyderabad,TS
+1004,4,105,2024-01-18,1,1499,Backpack,Accessories,1499,40,Priya,Mumbai,MH
+1005,5,104,2024-01-20,3,1047,Water Bottle,Accessories,349,60,Karthik,Coimbatore,TN

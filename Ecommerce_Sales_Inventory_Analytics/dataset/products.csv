@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity
+101,Wireless Mouse,Electronics,799,120
+102,Keyboard,Electronics,999,80
+103,Notebook,Stationery,199,200
+104,Water Bottle,Accessories,349,60
+105,Backpack,Accessories,1499,40
